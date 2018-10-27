@@ -1,6 +1,6 @@
 # *Avenue*
 
-**Objective** An iOS app that ______
+**Objective** Avenue is an iOS application that helps to alleviate parking conditions in New York City. One of the main frustrations of drivers is finding parking space. Avenue solves this through crowdsourcing parking spaces, by allowing homeowners to rent out their garages to drivers.
 
 ## Video Walkthrough
 
@@ -10,11 +10,12 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Stand-Ups
-- [ ] (Team Collab 101) Google drive, git branch, Private Slack channels
-- [ ] (UX)Wireframes
-- [ ] (UI)View-Controller Setup
-
+## Functionalities
+- [ ] Configure Firebase server
+- [ ] Set up FirebaseUI authentication
+- [ ] Implement google maps functionality
+- [ ] Implement list view and map view
+- [ ] Implement communication channel between Owners-Drivers
 
 ## Useful Links
 
