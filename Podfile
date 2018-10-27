@@ -7,8 +7,10 @@ target 'Avenue' do
 
   # Pods for Avenue
 	pod 'Firebase/Core'
-	pod 'FirebaseUI'
 	pod 'Firebase/Database'
 	pod 'Firebase/Storage'
+    pod 'FirebaseUI/Auth'
+    pod 'FirebaseUI/Google'
+    pod 'FirebaseUI/Facebook'
 
 end
